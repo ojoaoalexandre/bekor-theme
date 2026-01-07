@@ -4,6 +4,7 @@
     "description": "A beautiful dark theme for VS Code and Cursor with warm, earthy tones",
     "version": "1.0.1",
     "publisher": "joaoalexandre",
+    "icon": "Logo.png",
     "license": "MIT",
     "author": {
         "name": "João Alexandre"
