@@ -1,0 +1,41 @@
+{
+    "name": "bekor-theme",
+    "displayName": "Bekor Theme",
+    "description": "A beautiful dark theme for VS Code and Cursor with warm, earthy tones",
+    "version": "1.0.0",
+    "publisher": "joaoalexandre",
+    "license": "MIT",
+    "author": {
+        "name": "João Alexandre"
+    },
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark",
+        "warm",
+        "earth",
+        "color-theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bekor",
+                "uiTheme": "vs-dark",
+                "path": "./theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ojoaoalexandre/bekor-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ojoaoalexandre/bekor-theme/issues"
+    },
+    "homepage": "https://github.com/ojoaoalexandre/bekor-theme#readme"
+}
